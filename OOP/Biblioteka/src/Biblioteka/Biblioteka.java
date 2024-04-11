@@ -7,7 +7,7 @@ import java.util.List;
 public class Biblioteka {
 
     private String naziv;
-    private List<Knjizevnost> knjige= new ArrayList<>();;
+    private List<Knjizevnost> knjige= new ArrayList<>();
 
     public Biblioteka(String naziv) {
         this.naziv = naziv;
