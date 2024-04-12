@@ -29,11 +29,6 @@ public class ChatApp {
             throw new RuntimeException(e);
         }
 
-        /*
-        maree,Marko,MarkoC4r
-        luleee,Luka,Pacovcina123
-        */
-
         Korisnik atila=Svi.getSvi().prijava("Atila","Ahahaha123");
         Korisnik bic=Svi.getSvi().prijava("Bicuj","Ahahaha123");
         Korisnik po=Svi.getSvi().prijava("Poatan","Ahahaha123");
