@@ -1,0 +1,11 @@
+Obuka: Kruske 3 polaznika
+Polaznici: mejl1@gmail.com 0
+mejl2@gmail.com 2
+mejl3@gmail.com 4
+Obuka: Most 5 polaznika
+Polaznici: mejl1@gmail.com 1
+mejl2@gmail.com 3
+mejl5@gmail.com 5
+mejl3@gmail.com 5
+mejl4@gmail.com 5
+
